@@ -1,0 +1,13 @@
+body{
+    background:url('leao.jpg');
+    background-size: cover;
+    margin: 0%;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+button {
+    background-color: black;
+    color: beige;
+    
+}
